@@ -1,0 +1,33 @@
+@import url(https://fonts.googleapis.com/css?family=Poppins:regular);
+
+html, body {
+    height: 100%;
+    width: 100%;
+    font-family: 'Poppins', sans-serif;
+    background-color: #f2f2f2;
+}
+
+#header {
+    font-weight: bold;
+    padding: 8px;
+}
+
+#clock {
+    color: white;
+    margin: 10em 0 0 0;
+    padding: 4.5em 1.5em;
+    text-align: center;
+    text-shadow: 0 5px 5px #000000bb;
+    line-height: 3em;
+    background-color: skyblue;
+}
+
+#time {
+    font-size: 4.5em;
+    padding: 0.5em;
+}
+
+#date {
+    font-size: 2em;
+}
+
