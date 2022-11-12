@@ -1,4 +1,5 @@
-# FocusTime
+<!-- # FocusTime -->
+![](assets/logoCropped.png)
 
 ## Overview:
 An app that helps user focus on tasks, save and track progress, as well as motivate user by making work fun by allowing them to work while they listen to their favourite music.
