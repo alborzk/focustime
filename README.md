@@ -1,17 +1,9 @@
-<!-- # FocusTime -->
-![](assets/logoCropped.png)
+<h1 align="center"> FocusTime</h1>
 
-## Overview:
+## ⏰ Overview:
 An app that helps user focus on tasks, save and track progress, as well as motivate user by making work fun by allowing them to work while they listen to their favourite music.
 
-## Authors:
-- [Alborz Khakbazan](https://github.com/alborzk) - khakbaza@myumanitoba.ca
-- [Humayra Anjum Rafi](https://github.com/Humayra98) - rafiha@myumanitoba.ca
-- [Jason Tran](https://github.com/tranndt) - tranndt@myumanitoba.ca 
-- [Jules Basa](https://github.com/basaaj) - basaj@myumanitoba.ca
-- [Reymel Eusebio](https://github.com/r3ym3l) - eusebior@myumanitoba.ca
-
-## How to run:
+## 👟 Getting Started:
 
 Download or clone from GitHub: https://github.com/HumayraR/focustime
 
@@ -24,7 +16,7 @@ Make sure that the extension _Live Server_ is installed in your Visual Studio Co
 ### Via GitHub Pages:
 The application is also published with GitHub Pages. You can run it via this link - https://humayrar.github.io/focustime/ 
 
-## App Description: 
+## 📚 Using FocusTime: 
 
 ### My Timer page:
 
@@ -41,7 +33,7 @@ This page contains the main functionality of the music aspect for FocusTime. Thi
 ![My Statistics page screenshot](https://raw.githubusercontent.com/Humayra98/focustime/main/assets/readme_imgs/my_statistics.png)  
 This page shows statistics on the tasks and projects done in a week in the form of bubbles. Different colors represent different projects and the bubble's size of represents the amount of time spent on it. The more time spent on a task, the bigger the circle. The user also has the option of filtering by a specific project so that they can easily see all of its associating tasks.
 
-### My Progress page (previously Upcoming Tasks):
+### My Progress page:
 
 ![My Progress page screenshot](https://raw.githubusercontent.com/Humayra98/focustime/main/assets/readme_imgs/my_progress.png)
 This page keeps track of the progress of user has made on their tasks, as the title suggests. The tasks are categorized by their respective projects and whether they are still in progress or have been completed. The user can also create new tasks and projects on this page. Task details such as its due date, progress, notes, and focus and break times are shown on the _Details_ panel once clicked. For quick access, users can find particular tasks or projects by using the search feature. 
@@ -50,3 +42,10 @@ This page keeps track of the progress of user has made on their tasks, as the ti
 
 ![My Settings page screenshot](https://raw.githubusercontent.com/Humayra98/focustime/main/assets/readme_imgs/my_settings.png)  
 This page allows the users to set a homepage/home tab so that the user can be direected to the selected page everytime they click on the FocusTime logo. They can also change the background of the app. In addition, it also has a brief intro to the app as well as the GitHub user links of the authors.
+
+## 📝 Authors:
+- [Alborz Khakbazan](https://github.com/alborzk) - khakbaza@myumanitoba.ca
+- [Humayra Anjum Rafi](https://github.com/Humayra98) - rafiha@myumanitoba.ca
+- [Jason Tran](https://github.com/tranndt) - tranndt@myumanitoba.ca 
+- [Jules Basa](https://github.com/basaaj) - basaj@myumanitoba.ca
+- [Reymel Eusebio](https://github.com/r3ym3l) - eusebior@myumanitoba.ca
